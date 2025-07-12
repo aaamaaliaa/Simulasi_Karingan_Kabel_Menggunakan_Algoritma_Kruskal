@@ -1,1 +1,1 @@
-# simulasi-jaringan-kabel
+# Simulasi_Jaringan_Kabel_Menggunakan_Algoritma_Kruskal
